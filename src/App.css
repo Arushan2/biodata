@@ -1,6 +1,23 @@
-#Heading{
+#Heading {
+  color: rgb(25, 162, 55);
+  font-size: 2em;
   text-align: center;
+  margin-top: 20px;
 }
-#Personal{
-  margin-left: 1cm;
+
+#Personal {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+#Personal h3 {
+  color: #333;
+}
+
+#Personal p {
+  color: #666;
+  line-height: 1.5;
 }
